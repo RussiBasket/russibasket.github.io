@@ -1,5 +1,5 @@
 body {
-	background-color: #203260;
+	background-color: #002D73;
 	color: white;
 	font-family: Arial, sans-serif;
 	margin: 0;
@@ -39,7 +39,7 @@ th, td {
 }
 
 th {
-	background-color: #203260;
+	background-color: #002D73;
 	color: #FA5A00;
 }
 		
@@ -60,4 +60,5 @@ th {
 }
 .title {
 	text-align: center;
+	text-shadow: 1px 1px 2px pink;
 }
