@@ -44,9 +44,10 @@ th {
 }
 		
 .description {
-	font-size: 12px;
+	font-size: 15px;
 	margin-top: 5px;
 	white-space: pre-line;
+	font-style: italic;
 }
 
 .price {
